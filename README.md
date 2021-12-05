@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- ![Header image](header.png "Yo") -->
 
 <div align="center"> 
-    <h1>Hello stranger! I'm Vedant Nagani 
+    <h1>Hello stranger! I'm Umang Gohil
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1> 
     <!-- <p align="center">
