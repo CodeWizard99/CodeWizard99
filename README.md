@@ -51,9 +51,6 @@ Here are some ideas to get you started:
         <li style="font-size:18px">
             I do <i>full stack development</i> and keep exploring new fields 🔭
         </li>
-         <li style="font-size:18px">
-            I build <i>AI POCs, Machine Learning Pipelines and AI based Applications and Services. 🤖
-        </li>
         <li style="font-size:18px">
             <b>Music</b> and <b>love</b> makes the world go around 🎧
         </li>
@@ -61,13 +58,12 @@ Here are some ideas to get you started:
 </div>
 
 <h4>💬 Connect with me : </h4> 
-    <a href="https://www.linkedin.com/in/vedant-nagani">
+    <a href="https://www.linkedin.com/in/umang-gohil-1b34a6154">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/vedant-nagani">
-        <img height="30" src="https://img.shields.io/badge/facebook-4267B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/vedant.nagani"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/umang-gohil-1b34a6154">
+        
+    </a>
 
 <br>
 <h2>📊 My Stats</h2>
@@ -75,7 +71,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/CodeWizard99">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard99&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Vedant Nagani Top Languages" />
 
-<a href="https://github.com/Vedant13-ux">
+<a href="https://github.com/umang-gohil-1b34a6154">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=CodeWizard99&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Vedant Nagani Stats" />
 </a>
 
@@ -88,7 +84,6 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="tensorflow" />
       
     
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/>
