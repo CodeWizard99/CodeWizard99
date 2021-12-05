@@ -62,9 +62,6 @@ Here are some ideas to get you started:
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/umang-gohil-1b34a6154">
-        
-    </a>
-
 <br>
 <h2>📊 My Stats</h2>
 
