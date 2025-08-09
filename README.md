@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 <h2>📊 My Stats</h2>
 
 <a href="https://github.com/CodeWizard99">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard99&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Vedant Nagani Top Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWizard99&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Umang Gohil Top Languages" />
 
 <a href="https://github.com/umang-gohil-1b34a6154">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=CodeWizard99&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Vedant Nagani Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=CodeWizard99&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Umang Gohil Stats" />
 </a>
 
 <a href="https://github.com/CodeWizard99">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWizard99&theme=neon-dark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Umang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWizard99&theme=neon-dark&hide_border=true"/>
 </a>
 
 <h2>🧩 Technologies worked with</h2>
